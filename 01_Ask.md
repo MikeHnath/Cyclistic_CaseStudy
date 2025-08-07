@@ -1,5 +1,3 @@
-# 01 – Ask
-
 ## Business Task
 Cyclistic, a Chicago-based bike-share company, wants to increase the number of annual memberships because they are more profitable than single-ride or day passes. The marketing director believes the company’s future success depends on converting casual riders into annual members.
 
