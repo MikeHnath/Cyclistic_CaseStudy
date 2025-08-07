@@ -1,5 +1,3 @@
-# 02 – Prepare
-
 ## Data Sources
 The dataset used for this analysis comes from [Divvy Trip Data](https://divvy-tripdata.s3.amazonaws.com/index.html), made available by Motivate International Inc. under the [Data License Agreement](https://www.divvybikes.com/data-license-agreement). Although Cyclistic is fictional, this real-world dataset closely represents the type of information a bike-share company would use.
 
