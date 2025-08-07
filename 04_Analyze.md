@@ -46,3 +46,17 @@
 3. Casual ride growth in early 2020 highlights an opportunity to capture leisure riders with targeted promotions before peak season.
 
 ---
+
+## 📊 Quick Insights Summary
+
+| Metric                    | Casual  | Members  |
+|---------------------------|--------:|--------:|
+| **Total rides** (Q1 2019+20) | 71,138  | 720,126 |
+| **Avg ride length** (min) | 36.5    | 11.4    |
+| **Median ride length** (min) | 22      | 8.5     |
+| **Weekend share of rides** | 45.0%   | 16.6%   |
+
+**Highlights:**  
+- Members ride much more frequently but take shorter trips.  
+- Casual riders ride fewer times but for longer durations, with nearly half of rides on weekends.  
+
