@@ -30,12 +30,11 @@ From this analysis, actionable insights will support targeted marketing campaign
 
 ## 📊 Featured Visualization
 ![Monthly Rides by Year](monthly_rides_by_year.png)  
-*Monthly ride totals by member type (Q1 2019 vs Q1 2020). Members maintain higher ride counts, but casual riders show sharper growth — especially in March 2020.*
+*Members maintain higher ride counts year-round, but casual riders’ rapid growth in March 2020 signals untapped conversion potential.*
 
 ### Usage Snapshot: Rides by Day of Week
-![Rides by Day of Week](rides_by_day.png)
-
-*Weekday volume is member‑heavy (commuting), while casual ridership concentrates on weekends (leisure).*
+![Rides by Day of Week](rides_by_day.png)  
+*Weekday volume is member-heavy, supporting commuting patterns, while casual ridership spikes on weekends, reflecting leisure-focused use.*
 
 ---
 
@@ -45,7 +44,7 @@ From this analysis, actionable insights will support targeted marketing campaign
 - **Skills:**
   - Data import, cleaning, and transformation (type standardization, outlier handling)
   - Exploratory data analysis (EDA) & descriptive statistics
-  - Year‑over‑year comparative analysis
+  - Year-over-year comparative analysis
   - Data visualization & **storytelling**
   - Reproducible workflow (R → Markdown → GitHub)
   - Business insight generation & **actionable recommendations**
@@ -57,15 +56,15 @@ From this analysis, actionable insights will support targeted marketing campaign
 - **Casual riders** ride more on weekends and take longer trips, indicating leisure use.  
 - Casual rider usage grew sharply in early 2020, offering an opportunity for targeted conversion campaigns.
 
+---
 
 ## 📊 Quick Insights Summary
-
-| Metric                    | Casual  | Members  |
-|---------------------------|--------:|--------:|
-| **Total rides** (Q1 2019+20) | 71,138  | 720,126 |
-| **Avg ride length** (min) | 36.5    | 11.4    |
-| **Median ride length** (min) | 22      | 8.5     |
-| **Weekend share of rides** | 45.0%   | 16.6%   |
+| Metric                      |  Casual | Members |
+|:----------------------------|--------:|--------:|
+| **Total rides** (Q1 2019+20) |  71,138 | 720,126 |
+| **Avg ride length** (min)    |   36.5  |   11.4  |
+| **Median ride length** (min) |   22.0  |    8.5  |
+| **Weekend share of rides**   |  45.0%  |  16.6%  |
 
 **Highlights:**  
 - Members ride much more frequently but take shorter trips.  
