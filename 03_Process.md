@@ -1,5 +1,3 @@
-# 03 – Process
-
 ## Tools Used
 - **R (Posit Cloud)** for data import, cleaning, transformation, and analysis.
 - Libraries: `tidyverse`, `lubridate`, `janitor`, `ggplot2`.
